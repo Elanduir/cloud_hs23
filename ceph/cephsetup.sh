@@ -6,4 +6,4 @@ echo export PATH="/usr/sbin/:$PATH" >> ~/.bashrc
 source ~/.bashrc
 
 
-sudo apt install lvm2 python3 podman -y 
+sudo apt install catatonit lvm2 python3 podman -y 
