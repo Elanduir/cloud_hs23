@@ -7,3 +7,6 @@ source ~/.bashrc
 
 
 sudo apt install catatonit lvm2 python3 podman -y 
+
+sudo cephadm add-repo --release quincy
+sudo cephadm install ceph-common
